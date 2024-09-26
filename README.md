@@ -1,4 +1,4 @@
-# Synthetic-Financial-Datasets-For-Fraud-Detection
+
 # Fraud Detection Using SQL on Bank Transaction Dataset
 
 ## Project Overview
