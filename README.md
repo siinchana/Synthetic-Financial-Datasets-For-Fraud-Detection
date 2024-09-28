@@ -45,6 +45,4 @@ This project focuses on detecting fraudulent transactions in a large banking dat
 - `README.md`: This readme file.
 - `transactions_table.sql`: SQL script to create the `transactions` table used in the project.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
 
